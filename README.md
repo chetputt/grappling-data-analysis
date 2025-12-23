@@ -60,10 +60,10 @@ Using this dataset, I gained insight into the distribution and categorization of
 
 # Limitations
 
-The dataset is biased toward Brazilian Jiu-Jitsu, while judo appears underrepresented compared to real-world technique catalogs.
+* The dataset is biased toward Brazilian Jiu-Jitsu, while judo appears underrepresented compared to real-world technique catalogs.
 
-The data does not measure effectiveness, frequency of use, or success rate of techniques.
+* The data does not measure effectiveness, frequency of use, or success rate of techniques.
 
-Other important factors, such as cost, availability, injury risk, and competition rules, are not considered.
+* Other important factors, such as cost, availability, injury risk, and competition rules, are not considered.
 
-This analysis focuses solely on technique data and should not be interpreted as a definitive ranking of martial arts.
+* This analysis focuses solely on technique data and should not be interpreted as a definitive ranking of martial arts.
